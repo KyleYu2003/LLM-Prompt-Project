@@ -1,2 +1,2 @@
-# LLM-projects
-Here are the LLM projects finished by Kangqi in CSC6052
+# LLM-prompt-project
+Here is a LLM project about prompt refinement finished by Kangqi in CSC6052.
